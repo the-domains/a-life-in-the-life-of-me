@@ -1,7 +1,8 @@
 layout_spectrum: 1
+typography_spectrum: 0.06498389
 color:
   saturation: 1
-  lightness: 0
+  lightness: 0.9951664
   brandStrength: 1
   brandColors:
     - '#080A05'
@@ -10,5 +11,4 @@ color:
     - '#D0D0D0'
     - '#E93541'
   rhythmicContrast: 1
-typography_spectrum: 0.06498389
 name: A Life in the Life of.. Me!
