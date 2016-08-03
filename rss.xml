@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Life in the Life of.. Me!]]></title>
+        <description><![CDATA[A Life in the Life of.. Me!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 18:19:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Low Poly Billy]]></title>
+            <description><![CDATA[<article><h1>Low Poly Billy</h1><p>A new piece of artwork I was commissioned for as part of a collection.. more to follow 😁 </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a4ba3db-07f2-442b-8bd7-45a8033a6d3f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a4ba3db-07f2-442b-8bd7-45a8033a6d3f.jpg</link>
+            <guid isPermaLink="false">1177b8a1-c57a-42d6-84f8-afa36124efe5</guid>
+            <pubDate>Wed, 03 Aug 2016 18:19:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
